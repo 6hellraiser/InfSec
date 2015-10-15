@@ -1,0 +1,10 @@
+E:\4\InfSec\6lab\JpegHist\JpegHist\bin\Debug\JpegHist.exe.config
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.csprojResolveAssemblyReference.cache
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.Properties.Resources.resources
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.csproj.GenerateResource.Cache
+E:\4\InfSec\6lab\JpegHist\JpegHist\bin\Debug\JpegHist.exe
+E:\4\InfSec\6lab\JpegHist\JpegHist\bin\Debug\JpegHist.pdb
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.exe
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.pdb
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.FormHist.resources
+E:\4\InfSec\6lab\JpegHist\JpegHist\obj\Debug\JpegHist.Form1.resources

@@ -1,0 +1,17 @@
+﻿Сборка начата 25.09.2015 13:15:46.
+     1>Проект "E:\4\InfSec\Feistel\Correct_ex\Correct_ex\Correct_ex.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Software\Visual Studio Ultimate 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Correct_ex.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Software\Visual Studio Ultimate 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Correct_ex.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Correct_ex.cpp
+         Пропуск... (изменения не обнаружены)
+         Correct_ex.cpp
+       Link:
+         E:\Software\Visual Studio Ultimate 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4\InfSec\Feistel\Correct_ex\Debug\Correct_ex.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\4\InfSec\Feistel\Correct_ex\Debug\Correct_ex.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\4\InfSec\Feistel\Correct_ex\Debug\Correct_ex.lib" /MACHINE:X86 Debug\Correct_ex.obj
+         Debug\stdafx.obj
+         Correct_ex.vcxproj -> E:\4\InfSec\Feistel\Correct_ex\Debug\Correct_ex.exe
+     1>Построение проекта "E:\4\InfSec\Feistel\Correct_ex\Correct_ex\Correct_ex.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.42

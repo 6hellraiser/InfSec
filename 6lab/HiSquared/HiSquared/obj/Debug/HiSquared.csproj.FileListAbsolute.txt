@@ -1,0 +1,6 @@
+E:\4\InfSec\6lab\HiSquared\HiSquared\bin\Debug\HiSquared.exe.config
+E:\4\InfSec\6lab\HiSquared\HiSquared\bin\Debug\HiSquared.exe
+E:\4\InfSec\6lab\HiSquared\HiSquared\bin\Debug\HiSquared.pdb
+E:\4\InfSec\6lab\HiSquared\HiSquared\obj\Debug\HiSquared.csprojResolveAssemblyReference.cache
+E:\4\InfSec\6lab\HiSquared\HiSquared\obj\Debug\HiSquared.exe
+E:\4\InfSec\6lab\HiSquared\HiSquared\obj\Debug\HiSquared.pdb

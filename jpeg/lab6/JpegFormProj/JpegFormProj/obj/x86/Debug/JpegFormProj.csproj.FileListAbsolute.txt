@@ -1,0 +1,50 @@
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\JpegFormProj.exe
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\JpegFormProj.pdb
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\BitMiracle.LibJpeg.NET.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\ZedGraph.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\BitMiracle.LibJpeg.NET.xml
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\ZedGraph.xml
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\de\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\es\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\fr\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\hu\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\it\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\ja\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\pt\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\ru\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\sk\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\sv\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\tr\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.Form1.resources
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.Properties.Resources.resources
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.csproj.GenerateResource.Cache
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.exe
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.pdb
+G:\Учёба\Курс номеррр последнийс\последний семестр\Информационная безопасность\Лабораторные\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.HistForm.resources
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.exe
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.pdb
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\JpegFormProj.exe
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\JpegFormProj.pdb
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\BitMiracle.LibJpeg.NET.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\BitMiracle.LibJpeg.NET.xml
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\ZedGraph.xml
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\de\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\es\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\fr\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\hu\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\it\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\ja\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\pt\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\ru\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\sk\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\sv\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\tr\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.csprojResolveAssemblyReference.cache
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.Form1.resources
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.HistForm.resources
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.Properties.Resources.resources
+E:\4\InfSec\jpeg\lab6\JpegFormProj\JpegFormProj\obj\x86\Debug\JpegFormProj.csproj.GenerateResource.Cache

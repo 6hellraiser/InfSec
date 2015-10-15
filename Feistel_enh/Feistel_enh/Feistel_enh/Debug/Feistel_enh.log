@@ -1,0 +1,16 @@
+﻿Сборка начата 19.04.2015 17:09:10.
+     1>Проект "E:\4\InfSec\Feistel_enh\Feistel_enh\Feistel_enh\Feistel_enh.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Software\Visual Studio Ultimate 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Feistel_enh.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Feistel_enh.cpp
+         Feistel_enh.cpp
+     1>e:\4\infsec\feistel_enh\feistel_enh\feistel_enh\feistel_enh.cpp(35): warning C4244: return: преобразование "unsigned long" в "unsigned short", возможна потеря данных
+     1>e:\4\infsec\feistel_enh\feistel_enh\feistel_enh\feistel_enh.cpp(42): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned long", возможна потеря данных
+       Link:
+         E:\Software\Visual Studio Ultimate 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4\InfSec\Feistel_enh\Feistel_enh\Debug\Feistel_enh.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\4\InfSec\Feistel_enh\Feistel_enh\Debug\Feistel_enh.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\4\InfSec\Feistel_enh\Feistel_enh\Debug\Feistel_enh.lib" /MACHINE:X86 Debug\Feistel_enh.obj
+         Debug\stdafx.obj
+         Feistel_enh.vcxproj -> E:\4\InfSec\Feistel_enh\Feistel_enh\Debug\Feistel_enh.exe
+     1>Построение проекта "E:\4\InfSec\Feistel_enh\Feistel_enh\Feistel_enh\Feistel_enh.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.55
